@@ -1,0 +1,39 @@
+services:
+  pyspark-notebook:
+    image: jupyter/pyspark-notebook:python-3.11
+    container_name: pyspark-notebook
+    ports:
+      - "8888:8888"   # Jupyter
+      - "4040:4040"   # Spark UI
+    volumes:
+      - ./work:/home/jovyan/work
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
+    environment:
+      SPARK_LOCAL_IP: 0.0.0.0
+      PYSPARK_PYTHON: python
+      PYSPARK_DRIVER_PYTHON: python
+
+      #  Ajustes de memoria para cargas grandes
+      SPARK_DRIVER_MEMORY: 5g
+      SPARK_EXECUTOR_MEMORY: 3g
+
+      #  Evita que la JVM consuma memoria no declarada
+      SPARK_DRIVER_EXTRA_JAVA_OPTIONS: "-XX:+UseG1GC -XX:MaxRAMPercentage=70.0"
+
+      #  JAVA_HOME explícito (necesario en algunas imágenes base)
+      JAVA_HOME: "/usr/lib/jvm/java-17-openjdk-amd64"
+
+    #  Sin token para entrar directo a Jupyter
+    command: start-notebook.py --NotebookApp.token=''
+
+    #  Variables externas de entorno
+    env_file:
+      - .env
+
+    restart: unless-stopped
+
+    #  Límite real de memoria del contenedor 
+    mem_limit: 10g
+    memswap_limit: 10g

@@ -1,0 +1,217 @@
+PU_BOROUGH,MONTH,TRIP_CATEGORY,TRIPS
+Bronx,1,Long (>5mi),111388
+Bronx,1,Medium (2-5mi),131547
+Bronx,1,Short (<=2mi),190493
+Bronx,2,Long (>5mi),113891
+Bronx,2,Medium (2-5mi),143194
+Bronx,2,Short (<=2mi),208412
+Bronx,3,Long (>5mi),129170
+Bronx,3,Medium (2-5mi),163687
+Bronx,3,Short (<=2mi),233679
+Bronx,4,Long (>5mi),115779
+Bronx,4,Medium (2-5mi),139603
+Bronx,4,Short (<=2mi),196729
+Bronx,5,Long (>5mi),121059
+Bronx,5,Medium (2-5mi),141439
+Bronx,5,Short (<=2mi),197349
+Bronx,6,Long (>5mi),110142
+Bronx,6,Medium (2-5mi),127093
+Bronx,6,Short (<=2mi),180151
+Bronx,7,Long (>5mi),106295
+Bronx,7,Medium (2-5mi),114418
+Bronx,7,Short (<=2mi),164394
+Bronx,8,Long (>5mi),109164
+Bronx,8,Medium (2-5mi),111905
+Bronx,8,Short (<=2mi),156788
+Bronx,9,Long (>5mi),107141
+Bronx,9,Medium (2-5mi),110858
+Bronx,9,Short (<=2mi),150775
+Bronx,10,Long (>5mi),114741
+Bronx,10,Medium (2-5mi),114526
+Bronx,10,Short (<=2mi),154254
+Bronx,11,Long (>5mi),102635
+Bronx,11,Medium (2-5mi),105950
+Bronx,11,Short (<=2mi),142695
+Bronx,12,Long (>5mi),112091
+Bronx,12,Medium (2-5mi),113500
+Bronx,12,Short (<=2mi),153958
+Brooklyn,1,Long (>5mi),592857
+Brooklyn,1,Medium (2-5mi),1063375
+Brooklyn,1,Short (<=2mi),1400334
+Brooklyn,2,Long (>5mi),594270
+Brooklyn,2,Medium (2-5mi),1074969
+Brooklyn,2,Short (<=2mi),1379227
+Brooklyn,3,Long (>5mi),652189
+Brooklyn,3,Medium (2-5mi),1160111
+Brooklyn,3,Short (<=2mi),1458518
+Brooklyn,4,Long (>5mi),625020
+Brooklyn,4,Medium (2-5mi),1131194
+Brooklyn,4,Short (<=2mi),1331218
+Brooklyn,5,Long (>5mi),668071
+Brooklyn,5,Medium (2-5mi),1174057
+Brooklyn,5,Short (<=2mi),1339063
+Brooklyn,6,Long (>5mi),603376
+Brooklyn,6,Medium (2-5mi),1056848
+Brooklyn,6,Short (<=2mi),1226708
+Brooklyn,7,Long (>5mi),558050
+Brooklyn,7,Medium (2-5mi),958866
+Brooklyn,7,Short (<=2mi),1106355
+Brooklyn,8,Long (>5mi),547906
+Brooklyn,8,Medium (2-5mi),925044
+Brooklyn,8,Short (<=2mi),1055468
+Brooklyn,9,Long (>5mi),553881
+Brooklyn,9,Medium (2-5mi),936026
+Brooklyn,9,Short (<=2mi),1079425
+Brooklyn,10,Long (>5mi),594207
+Brooklyn,10,Medium (2-5mi),982561
+Brooklyn,10,Short (<=2mi),1171779
+Brooklyn,11,Long (>5mi),524981
+Brooklyn,11,Medium (2-5mi),865280
+Brooklyn,11,Short (<=2mi),1085342
+Brooklyn,12,Long (>5mi),541083
+Brooklyn,12,Medium (2-5mi),883570
+Brooklyn,12,Short (<=2mi),1148702
+EWR,1,Long (>5mi),513
+EWR,1,Medium (2-5mi),123
+EWR,1,Short (<=2mi),4293
+EWR,2,Long (>5mi),400
+EWR,2,Medium (2-5mi),128
+EWR,2,Short (<=2mi),4081
+EWR,3,Long (>5mi),530
+EWR,3,Medium (2-5mi),152
+EWR,3,Short (<=2mi),4732
+EWR,4,Long (>5mi),547
+EWR,4,Medium (2-5mi),135
+EWR,4,Short (<=2mi),4855
+EWR,5,Long (>5mi),576
+EWR,5,Medium (2-5mi),137
+EWR,5,Short (<=2mi),5632
+EWR,6,Long (>5mi),557
+EWR,6,Medium (2-5mi),111
+EWR,6,Short (<=2mi),5235
+EWR,7,Long (>5mi),563
+EWR,7,Medium (2-5mi),120
+EWR,7,Short (<=2mi),5038
+EWR,8,Long (>5mi),481
+EWR,8,Medium (2-5mi),110
+EWR,8,Short (<=2mi),5026
+EWR,9,Long (>5mi),522
+EWR,9,Medium (2-5mi),139
+EWR,9,Short (<=2mi),5270
+EWR,10,Long (>5mi),584
+EWR,10,Medium (2-5mi),152
+EWR,10,Short (<=2mi),5959
+EWR,11,Long (>5mi),507
+EWR,11,Medium (2-5mi),125
+EWR,11,Short (<=2mi),5722
+EWR,12,Long (>5mi),557
+EWR,12,Medium (2-5mi),128
+EWR,12,Short (<=2mi),6188
+Manhattan,1,Long (>5mi),5461799
+Manhattan,1,Medium (2-5mi),16864745
+Manhattan,1,Short (<=2mi),39462813
+Manhattan,2,Long (>5mi),5607957
+Manhattan,2,Medium (2-5mi),16901725
+Manhattan,2,Short (<=2mi),38719776
+Manhattan,3,Long (>5mi),6155097
+Manhattan,3,Medium (2-5mi),17955481
+Manhattan,3,Short (<=2mi),40011881
+Manhattan,4,Long (>5mi),5904497
+Manhattan,4,Medium (2-5mi),17228314
+Manhattan,4,Short (<=2mi),37104806
+Manhattan,5,Long (>5mi),6196819
+Manhattan,5,Medium (2-5mi),17507443
+Manhattan,5,Short (<=2mi),37168050
+Manhattan,6,Long (>5mi),5850362
+Manhattan,6,Medium (2-5mi),16705598
+Manhattan,6,Short (<=2mi),35509682
+Manhattan,7,Long (>5mi),5317129
+Manhattan,7,Medium (2-5mi),15422169
+Manhattan,7,Short (<=2mi),32409475
+Manhattan,8,Long (>5mi),5202325
+Manhattan,8,Medium (2-5mi),15000470
+Manhattan,8,Short (<=2mi),31662077
+Manhattan,9,Long (>5mi),5435780
+Manhattan,9,Medium (2-5mi),15657548
+Manhattan,9,Short (<=2mi),33373704
+Manhattan,10,Long (>5mi),5896637
+Manhattan,10,Medium (2-5mi),17206099
+Manhattan,10,Short (<=2mi),37355483
+Manhattan,11,Long (>5mi),5395093
+Manhattan,11,Medium (2-5mi),15826815
+Manhattan,11,Short (<=2mi),35399865
+Manhattan,12,Long (>5mi),5570629
+Manhattan,12,Medium (2-5mi),15692508
+Manhattan,12,Short (<=2mi),36066146
+Queens,1,Long (>5mi),3497849
+Queens,1,Medium (2-5mi),859235
+Queens,1,Short (<=2mi),1395616
+Queens,2,Long (>5mi),3236331
+Queens,2,Medium (2-5mi),822227
+Queens,2,Short (<=2mi),1346439
+Queens,3,Long (>5mi),3730160
+Queens,3,Medium (2-5mi),903069
+Queens,3,Short (<=2mi),1430485
+Queens,4,Long (>5mi),3635818
+Queens,4,Medium (2-5mi),842850
+Queens,4,Short (<=2mi),1294686
+Queens,5,Long (>5mi),3922938
+Queens,5,Medium (2-5mi),893210
+Queens,5,Short (<=2mi),1334183
+Queens,6,Long (>5mi),3745724
+Queens,6,Medium (2-5mi),851874
+Queens,6,Short (<=2mi),1267539
+Queens,7,Long (>5mi),3592694
+Queens,7,Medium (2-5mi),823288
+Queens,7,Short (<=2mi),1195118
+Queens,8,Long (>5mi),3674803
+Queens,8,Medium (2-5mi),815651
+Queens,8,Short (<=2mi),1147360
+Queens,9,Long (>5mi),3662476
+Queens,9,Medium (2-5mi),788298
+Queens,9,Short (<=2mi),1135731
+Queens,10,Long (>5mi),3873098
+Queens,10,Medium (2-5mi),813086
+Queens,10,Short (<=2mi),1227546
+Queens,11,Long (>5mi),3548219
+Queens,11,Medium (2-5mi),752998
+Queens,11,Short (<=2mi),1168611
+Queens,12,Long (>5mi),3445172
+Queens,12,Medium (2-5mi),792094
+Queens,12,Short (<=2mi),1254259
+Staten Island,1,Long (>5mi),2157
+Staten Island,1,Medium (2-5mi),407
+Staten Island,1,Short (<=2mi),1413
+Staten Island,2,Long (>5mi),2042
+Staten Island,2,Medium (2-5mi),485
+Staten Island,2,Short (<=2mi),1360
+Staten Island,3,Long (>5mi),2163
+Staten Island,3,Medium (2-5mi),631
+Staten Island,3,Short (<=2mi),1713
+Staten Island,4,Long (>5mi),1976
+Staten Island,4,Medium (2-5mi),600
+Staten Island,4,Short (<=2mi),1782
+Staten Island,5,Long (>5mi),2250
+Staten Island,5,Medium (2-5mi),600
+Staten Island,5,Short (<=2mi),1689
+Staten Island,6,Long (>5mi),2550
+Staten Island,6,Medium (2-5mi),512
+Staten Island,6,Short (<=2mi),1586
+Staten Island,7,Long (>5mi),2140
+Staten Island,7,Medium (2-5mi),499
+Staten Island,7,Short (<=2mi),1505
+Staten Island,8,Long (>5mi),2160
+Staten Island,8,Medium (2-5mi),487
+Staten Island,8,Short (<=2mi),1298
+Staten Island,9,Long (>5mi),2207
+Staten Island,9,Medium (2-5mi),427
+Staten Island,9,Short (<=2mi),1261
+Staten Island,10,Long (>5mi),2396
+Staten Island,10,Medium (2-5mi),419
+Staten Island,10,Short (<=2mi),1328
+Staten Island,11,Long (>5mi),2233
+Staten Island,11,Medium (2-5mi),483
+Staten Island,11,Short (<=2mi),1246
+Staten Island,12,Long (>5mi),2602
+Staten Island,12,Medium (2-5mi),386
+Staten Island,12,Short (<=2mi),1218

@@ -1,0 +1,201 @@
+YEAR,MONTH,PU_BOROUGH,SERVICE_TYPE,TRIPS
+2098,9,Manhattan,yellow,1
+2090,12,Queens,yellow,1
+2088,1,Manhattan,yellow,2
+2084,11,Manhattan,yellow,8
+2081,6,Queens,green,1
+2070,8,Queens,yellow,1
+2066,12,Manhattan,yellow,1
+2062,8,Queens,green,1
+2058,12,Manhattan,yellow,3
+2053,3,Brooklyn,yellow,1
+2042,12,Manhattan,yellow,1
+2041,11,Manhattan,yellow,1
+2041,8,Queens,green,1
+2041,6,Manhattan,yellow,1
+2041,3,Manhattan,yellow,1
+2038,2,Manhattan,yellow,4
+2037,11,Manhattan,yellow,1
+2035,9,Queens,green,1
+2033,4,Manhattan,yellow,3
+2032,2,Queens,yellow,1
+2031,2,Manhattan,yellow,2
+2030,11,Manhattan,green,2
+2029,11,Brooklyn,yellow,1
+2029,11,Manhattan,yellow,2
+2029,5,Manhattan,yellow,3
+2028,12,Queens,yellow,1
+2026,12,Queens,yellow,1
+2026,6,Manhattan,yellow,1
+2026,6,Queens,yellow,1
+2026,2,Manhattan,yellow,2
+2025,3,Manhattan,yellow,2
+2025,2,Manhattan,yellow,1
+2025,1,Bronx,green,1
+2025,1,Manhattan,green,7
+2025,1,Manhattan,yellow,2
+2025,1,Queens,green,3
+2024,12,Bronx,green,609
+2024,12,Bronx,yellow,11216
+2024,12,Brooklyn,green,7664
+2024,12,Brooklyn,yellow,60841
+2024,12,EWR,green,5
+2024,12,EWR,yellow,621
+2024,12,Manhattan,green,32421
+2024,12,Manhattan,yellow,3201995
+2024,12,Queens,green,12968
+2024,12,Queens,yellow,320304
+2024,12,Staten Island,yellow,177
+2024,11,Bronx,green,599
+2024,11,Bronx,yellow,12456
+2024,11,Brooklyn,green,7810
+2024,11,Brooklyn,yellow,65271
+2024,11,EWR,yellow,534
+2024,11,Manhattan,green,31610
+2024,11,Manhattan,yellow,3188912
+2024,11,Queens,green,11909
+2024,11,Queens,yellow,313663
+2024,11,Staten Island,green,8
+2024,11,Staten Island,yellow,205
+2024,10,Bronx,green,944
+2024,10,Bronx,yellow,12239
+2024,10,Brooklyn,green,7968
+2024,10,Brooklyn,yellow,60708
+2024,10,EWR,yellow,535
+2024,10,Manhattan,green,33419
+2024,10,Manhattan,yellow,3329333
+2024,10,Queens,green,13505
+2024,10,Queens,yellow,357326
+2024,10,Staten Island,green,3
+2024,10,Staten Island,yellow,221
+2024,9,Bronx,green,966
+2024,9,Bronx,yellow,11736
+2024,9,Brooklyn,green,7439
+2024,9,Brooklyn,yellow,64482
+2024,9,EWR,green,4
+2024,9,EWR,yellow,512
+2024,9,Manhattan,green,30794
+2024,9,Manhattan,yellow,3134425
+2024,9,Queens,green,14874
+2024,9,Queens,yellow,351908
+2024,9,Staten Island,green,1
+2024,9,Staten Island,yellow,229
+2024,8,Bronx,green,755
+2024,8,Bronx,yellow,9959
+2024,8,Brooklyn,green,7415
+2024,8,Brooklyn,yellow,46226
+2024,8,EWR,green,1
+2024,8,EWR,yellow,569
+2024,8,Manhattan,green,29109
+2024,8,Manhattan,yellow,2539275
+2024,8,Queens,green,14178
+2024,8,Queens,yellow,326446
+2024,8,Staten Island,green,4
+2024,8,Staten Island,yellow,158
+2024,7,Bronx,green,869
+2024,7,Bronx,yellow,9486
+2024,7,Brooklyn,green,7407
+2024,7,Brooklyn,yellow,44788
+2024,7,EWR,green,2
+2024,7,EWR,yellow,533
+2024,7,Manhattan,green,30788
+2024,7,Manhattan,yellow,2646315
+2024,7,Queens,green,12414
+2024,7,Queens,yellow,320110
+2024,7,Staten Island,green,1
+2024,7,Staten Island,yellow,134
+2024,6,Bronx,green,860
+2024,6,Bronx,yellow,11057
+2024,6,Brooklyn,green,8031
+2024,6,Brooklyn,yellow,56627
+2024,6,EWR,green,2
+2024,6,EWR,yellow,475
+2024,6,Manhattan,green,32228
+2024,6,Manhattan,yellow,3094171
+2024,6,Queens,green,13280
+2024,6,Queens,yellow,320491
+2024,6,Staten Island,green,1
+2024,6,Staten Island,yellow,149
+2024,5,Bronx,green,839
+2024,5,Bronx,yellow,11867
+2024,5,Brooklyn,green,8565
+2024,5,Brooklyn,yellow,53457
+2024,5,EWR,green,2
+2024,5,EWR,yellow,584
+2024,5,Manhattan,green,35889
+2024,5,Manhattan,yellow,3262103
+2024,5,Queens,green,15326
+2024,5,Queens,yellow,338777
+2024,5,Staten Island,green,5
+2024,5,Staten Island,yellow,168
+2024,4,Bronx,green,737
+2024,4,Bronx,yellow,10756
+2024,4,Brooklyn,green,7559
+2024,4,Brooklyn,yellow,45117
+2024,4,EWR,green,2
+2024,4,EWR,yellow,498
+2024,4,Manhattan,green,33792
+2024,4,Manhattan,yellow,3097360
+2024,4,Queens,green,14030
+2024,4,Queens,yellow,309392
+2024,4,Staten Island,green,3
+2024,4,Staten Island,yellow,109
+2024,3,Bronx,green,771
+2024,3,Bronx,yellow,11021
+2024,3,Brooklyn,green,8256
+2024,3,Brooklyn,yellow,43578
+2024,3,EWR,green,1
+2024,3,EWR,yellow,353
+2024,3,Manhattan,green,32628
+2024,3,Manhattan,yellow,3167903
+2024,3,Queens,green,15437
+2024,3,Queens,yellow,307281
+2024,3,Staten Island,green,3
+2024,3,Staten Island,yellow,101
+2024,2,Bronx,green,725
+2024,2,Bronx,yellow,6928
+2024,2,Brooklyn,green,7608
+2024,2,Brooklyn,yellow,27753
+2024,2,EWR,green,2
+2024,2,EWR,yellow,280
+2024,2,Manhattan,green,31418
+2024,2,Manhattan,yellow,2684965
+2024,2,Queens,green,13493
+2024,2,Queens,yellow,244961
+2024,2,Staten Island,green,2
+2024,2,Staten Island,yellow,56
+2024,1,Bronx,green,866
+2024,1,Bronx,yellow,6858
+2024,1,Brooklyn,green,7732
+2024,1,Brooklyn,yellow,25022
+2024,1,EWR,green,3
+2024,1,EWR,yellow,284
+2024,1,Manhattan,green,32778
+2024,1,Manhattan,yellow,2621922
+2024,1,Queens,green,14850
+2024,1,Queens,yellow,267495
+2024,1,Staten Island,green,5
+2024,1,Staten Island,yellow,69
+2023,12,Bronx,green,1121
+2023,12,Bronx,yellow,6777
+2023,12,Brooklyn,green,9665
+2023,12,Brooklyn,yellow,27995
+2023,12,EWR,green,3
+2023,12,EWR,yellow,481
+2023,12,Manhattan,green,35951
+2023,12,Manhattan,yellow,2999677
+2023,12,Queens,green,17137
+2023,12,Queens,yellow,290852
+2023,12,Staten Island,green,3
+2023,12,Staten Island,yellow,63
+2023,11,Bronx,green,1053
+2023,11,Bronx,yellow,6026
+2023,11,Brooklyn,green,8674
+2023,11,Brooklyn,yellow,22213
+2023,11,EWR,yellow,416
+2023,11,Manhattan,green,36889
+2023,11,Manhattan,yellow,2939644
+2023,11,Queens,green,17048
+2023,11,Queens,yellow,311210
+2023,11,Staten Island,green,10
+2023,11,Staten Island,yellow,69

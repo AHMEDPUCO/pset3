@@ -1,0 +1,7 @@
+# credenciales
+.env
+*.env.local
+secrets/*
+# data pesada
+data/
+.ipynb_checkpoints/

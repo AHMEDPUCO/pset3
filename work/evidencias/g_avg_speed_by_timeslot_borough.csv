@@ -1,0 +1,19 @@
+TIME_SLOT,PU_BOROUGH,AVG_SPEED,TRIPS
+06-09 Morning,Bronx,130.76,946281
+06-09 Morning,Brooklyn,46.33,4234992
+06-09 Morning,EWR,170.74,1963
+06-09 Morning,Manhattan,20.89,102470517
+06-09 Morning,Queens,35.83,8434854
+06-09 Morning,Staten Island,33.73,8111
+17-20 Evening,Bronx,40.98,927816
+17-20 Evening,Brooklyn,19.13,7461647
+17-20 Evening,EWR,194.66,2590
+17-20 Evening,Manhattan,39.87,168349304
+17-20 Evening,Queens,34.11,16257703
+17-20 Evening,Staten Island,96.95,7308
+Other,Bronx,92.28,2792403
+Other,Brooklyn,33.69,21627585
+Other,EWR,186.81,7029
+Other,Manhattan,19.98,424460003
+Other,Queens,35.46,42072993
+Other,Staten Island,298.97,25621

@@ -1,0 +1,8 @@
+Primero creamos el contenedor usando la version jupyter/pyspark-notebook:python-3.11
+Detallar cada una de las caracteristicas. 
+bASICAMENTE TIENEN QUE VER CON LA MEMORIA Y CON EL ALCANCE Y CONFIGURACIÓN DE DRIVERS DE PYTHON
+Y TAMBIÉN HCIIMOS QUE EL JUPYTER NO ACEPTE TOKEN PARA FACILITAR LA TAREAL
+Luego definimos las variables de entorno para poder conectarnos desde el uupyer.
+Una vez hecho eso creamos dos funciones para mantener crear la sesión con los conectores necesarios para el sonwflake. EXPLICAR MAS ESA PARTE
+ya casi terminado el notebook 1. mejorar la parte de idempotencia
+
